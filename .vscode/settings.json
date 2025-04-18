@@ -1,0 +1,8 @@
+{
+    "editor.columnSelection": true,
+    "editor.mouseWheelZoom": false,
+    "editor.definitionLinkOpensInPeek": false,
+    "editor.hover.sticky": true,
+    "editor.showFoldingControls": "mouseover",
+    "editor.minimap.showSlider": "mouseover"
+}
